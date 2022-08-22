@@ -1,0 +1,101 @@
+heading{
+  font-family:"copperplate";
+}
+body{
+  background-color:beige;
+}
+
+/* Colors */
+
+.colors{
+  border: 1px solid black;
+  border-radius: 5%;
+  margin: auto;
+  padding: 50px;
+  text-align:center;
+
+}
+.colors p{
+  height:60px;
+  text-align:center;
+  display:inline-block;
+  font-family:"copperplate";
+  height: 50%;
+  
+
+}
+
+
+#seagreen{
+  background-color:#00ff99;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+#pink{
+  background-color:#ff66cc;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+#orange{
+  background-color:#ff6600;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+/* Fonts */
+
+@font-face{
+  font-family: 'Silkscreen', cursive;
+  font-family: 'Noto Serif HK', serif;
+  
+}
+.fonts{
+  border: 1px solid black;
+  border-radius: 5%;
+  margin: auto;
+  padding: 10px;
+}
+
+.silkscreen{
+  font-family:'silkscreen';
+  border: 1px solid black;
+  padding:10px;
+  display: inline-block;
+  height:200px;
+  width:300px;
+  overflow:hidden;
+}
+
+.aboreto{
+  font-family:"aboreto";
+  border: 1px solid black;
+  padding:10px;
+  display: inline-block;
+  height:200px;
+  width:300px;
+  overflow:hidden;
+  
+}
+
+.noto{
+  font-family:'Noto Serif HK';
+  border: 1px solid black;
+  padding:10px;
+  display: inline-block;
+  height:200px;
+  width:300px;
+  overflow:hidden;
+}
+
+/* Text styles: */
+
+.textstyles{
+  border: 1px solid black;
+  border-radius: 5%;
+  margin: auto;
+  padding: 10px;
+  font-family:"copperplate"
+  
+}
